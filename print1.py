@@ -7,5 +7,5 @@ Original file is located at
     https://colab.research.google.com/drive/15DTzZvU_zpezcsivxIxLrPXr1xdvlyuA
 """
 def print1():
-    print('와...폼미쳤네...')
+    print('와...폼미쳤네..?')
     
