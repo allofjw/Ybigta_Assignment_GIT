@@ -7,4 +7,4 @@ Original file is located at
     https://colab.research.google.com/drive/15DTzZvU_zpezcsivxIxLrPXr1xdvlyuA
 """
 def print2() :
-    print('빅뉴스다 이거..!)
+    print('빅뉴스다 이거..!')
